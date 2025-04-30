@@ -27,7 +27,9 @@ function App() {
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
                 <td className="px-3 py-2">11:00 AM - 11:30 AM</td>
                 <td className="px-3 py-2">
-                  Board/Leader/ChipMaster Acknowledgments
+                  Board/Leader/ChipMaster
+                  <br />
+                  Acknowledgments
                 </td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
