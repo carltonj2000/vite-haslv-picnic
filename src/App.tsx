@@ -59,7 +59,7 @@ function App() {
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
                 <td className="px-3 py-2">1:00 PM - 1:30 PM</td>
-                <td className="px-3 py-2">Raffle &amp; Thanks Time</td>
+                <td className="px-3 py-2">Raffle &amp; Hiker Thanks</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
                 <td className="px-3 py-2">1:30 PM - 2:00 PM</td>
