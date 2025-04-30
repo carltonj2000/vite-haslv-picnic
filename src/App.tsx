@@ -17,21 +17,21 @@ function App() {
             </thead>
             <tbody>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-65">
-                <td className="px-3 py-2">10:00 AM - 10:30AM</td>
+                <td className="px-3 py-2">10:00 AM - 10:30 AM</td>
                 <td className="px-3 py-2">Early Arrival And Setup</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-65">
-                <td className="px-3 py-2">10:30 AM - 11:00AM</td>
+                <td className="px-3 py-2">10:30 AM - 11:00 AM</td>
                 <td className="px-3 py-2">Guest And Food Arrival</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-65">
-                <td className="px-3 py-2">11:00 AM - 11:30AM</td>
+                <td className="px-3 py-2">11:00 AM - 11:30 AM</td>
                 <td className="px-3 py-2">
                   Board &amp; Leader Acknowledgments
                 </td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-65">
-                <td className="px-3 py-2">11:30 AM - 12:00AM</td>
+                <td className="px-3 py-2">11:30 AM - 12:00 PM</td>
                 <td className="px-3 py-2">
                   <p>
                     Raffle (50/40/10) And
@@ -46,23 +46,23 @@ function App() {
                 </td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-65">
-                <td className="px-3 py-2">12:00 AM - 12:30AM</td>
+                <td className="px-3 py-2">12:00 PM - 12:30 PM</td>
                 <td className="px-3 py-2">Group Photo</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-65">
-                <td className="px-3 py-2">12:30 AM - 1:00AM</td>
+                <td className="px-3 py-2">12:30 PM - 1:00 PM</td>
                 <td className="px-3 py-2">Social Time</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-65">
-                <td className="px-3 py-2">1:00 AM - 1:30AM</td>
+                <td className="px-3 py-2">1:00 PM - 1:30 PM</td>
                 <td className="px-3 py-2">Raffle &amp; Thanks Time</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-65">
-                <td className="px-3 py-2">1:30 AM - 2:00AM</td>
+                <td className="px-3 py-2">1:30 PM - 2:00 PM</td>
                 <td className="px-3 py-2">Social Time</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-65">
-                <td className="px-3 py-2">2:00 AM - 2:30AM</td>
+                <td className="px-3 py-2">2:00 PM - 2:30 PM</td>
                 <td className="px-3 py-2">Wind Down &amp; Clean Up</td>
               </tr>
             </tbody>
