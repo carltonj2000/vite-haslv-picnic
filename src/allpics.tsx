@@ -19,7 +19,7 @@ shutterstock_1071439994.jpg
 sombrero-mexicano-con-borlas-adultos-1__53751.jpg
 */
 
-const picNames = Object.keys(pics);
+const picNames = Object.keys(pics) as Array<keyof typeof pics>;
 
 function AllPics() {
   return (
