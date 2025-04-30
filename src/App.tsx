@@ -1,10 +1,10 @@
-import pin from "./assets/712cYUdimaL._AC_SL1500_.png";
-import dress from "./assets/A1mpMrJLhBL._AC_SX679_.png";
+import pin from "./assets/712cYUdimaL._AC_SL1500_small.png";
+import dress from "./assets/A1mpMrJLhBL._AC_SX679_small.png";
 
 function App() {
   return (
     <div>
-      <div className="bg-[url(./assets/14e__47473.jpg)] bg-cover h-screen bg-blend-overlay bg-slate-300"></div>
+      <div className="bg-[url(./assets/14e__47473.webp)] bg-cover h-screen bg-blend-overlay bg-slate-300"></div>
       <div className="absolute top-0 left-0 w-full flex flex-col items-center">
         <div className="flex gap-3 mt-3">
           <img src={pin} className="w-[50px]" loading="lazy" />
