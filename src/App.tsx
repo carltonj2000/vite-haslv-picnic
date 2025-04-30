@@ -1,12 +1,23 @@
+import pin from "./assets/712cYUdimaL._AC_SL1500_.png";
+import dress from "./assets/A1mpMrJLhBL._AC_SX679_.png";
+
 function App() {
   return (
     <div>
       <div className="bg-[url(./assets/14e__47473.jpg)] bg-cover h-screen bg-blend-overlay bg-slate-300"></div>
       <div className="absolute top-0 left-0 w-full flex flex-col items-center">
-        <h1 className="text-2xl font-bold mt-3">Hike And Scramble Las Vegas</h1>
-        <h2 className="text-xl font-semibold">
-          Picnic <span className="text-lg font-normal">(May 3, 2025)</span>
-        </h2>
+        <div className="flex gap-3 mt-3">
+          <img src={pin} className="w-[50px]" loading="lazy" />
+          <div className="flex flex-col items-center">
+            <h1 className="text-xl font-bold mt-3">
+              Hike And Scramble Las Vegas
+            </h1>
+            <h2 className="text-lg font-semibold">
+              Picnic <span className="text-lg font-normal">(May 3, 2025)</span>
+            </h2>
+          </div>
+          <img src={dress} className="w-[50px]" loading="lazy" />
+        </div>
         <div className="overflow-x-auto rounded-2xl mt-4">
           <table>
             <thead>
