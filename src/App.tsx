@@ -6,17 +6,15 @@ function App() {
     <div>
       <div className="bg-[url(./assets/14e__47473.webp)] bg-cover h-screen bg-blend-overlay bg-slate-300"></div>
       <div className="absolute top-0 left-0 w-full flex flex-col items-center">
-        <div className="flex gap-3 mt-3">
-          <img src={pin} className="w-[50px]" loading="lazy" />
+        <div className="flex gap-3 mt-3 items-center">
+          <img src={pin} className="w-[70px] h-[70px]" loading="lazy" />
           <div className="flex flex-col items-center">
-            <h1 className="text-xl font-bold mt-3">
-              Hike And Scramble Las Vegas
-            </h1>
-            <h2 className="text-lg font-semibold">
-              Picnic <span className="text-lg font-normal">(May 3, 2025)</span>
-            </h2>
+            <h1 className="text-xl font-bold mt-3">Hike And Scramble</h1>
+            <h1 className="text-xl font-semi">Las Vegas</h1>
+            <h2 className="text-lg font-semibold">Picnic</h2>
+            <h3 className="text-lg font-normal">May 3, 2025</h3>
           </div>
-          <img src={dress} className="w-[75px]" loading="lazy" />
+          <img src={dress} className="w-[80px]" loading="lazy" />
         </div>
         <div className="overflow-x-auto rounded-2xl mt-4">
           <table>
