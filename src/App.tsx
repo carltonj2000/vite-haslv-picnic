@@ -16,7 +16,7 @@ function App() {
               Picnic <span className="text-lg font-normal">(May 3, 2025)</span>
             </h2>
           </div>
-          <img src={dress} className="w-[50px]" loading="lazy" />
+          <img src={dress} className="w-[75px]" loading="lazy" />
         </div>
         <div className="overflow-x-auto rounded-2xl mt-4">
           <table>
@@ -36,7 +36,7 @@ function App() {
                 <td className="px-3 py-2">Guest And Food Arrival</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
-                <td className="px-3 py-2">11:00 AM - 11:30 AM</td>
+                <td className="px-3 py-2">11:00 AM - 11:15 AM</td>
                 <td className="px-3 py-2">
                   Board/Leader/ChipMaster
                   <br />
@@ -44,39 +44,47 @@ function App() {
                 </td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
-                <td className="px-3 py-2">11:30 AM - 12:00 PM</td>
+                <td className="px-3 py-2">11:15 AM - 11:30 PM</td>
                 <td className="px-3 py-2">
                   <p>
-                    Raffle (50/40/10) And
+                    Explain Cash Raffle (50/40/10)
                     <br />
-                    Prize Presentations
+                    Show Drawing/Raffle Prizes
+                    <br />
+                    Decorations give away or recycle
                   </p>
+                  <p>Raffle Prizes</p>
                   <ul className="list-disc list-inside">
-                    <li>Pinata</li>
-                    <li>Decorations (or Recycle)</li>
-                    <li>Lowes Cards $35</li>
-                    <li>Eddies Mexican Restaurant $50</li>
-                    <li>45 ft Webbing $30</li>
-                    <li>50 ft Webbing $40</li>
-                    <li>Chip Trophy Case $70</li>
+                    <li>Pinata (a)</li>
+                    <li>Lowes Cards $35 (a)</li>
+                    <li>45 ft Webbing $30 (a)</li>
+                    <li>Eddies Mexican Restaurant $50 (b)</li>
+                    <li>50 ft Webbing $40 (b)</li>
+                    <li>Chip Trophy Case $70 (b)</li>
+                    <li>REI Gift Card $50 (c)</li>
+                    <li>Hiking Fanny Pack (c)</li>
                   </ul>
                 </td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
+                <td className="px-3 py-2">11:30 PM - 12:00 PM</td>
+                <td className="px-3 py-2">Raffle Group (a) Items</td>
+              </tr>
+              <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
                 <td className="px-3 py-2">12:00 PM - 12:30 PM</td>
-                <td className="px-3 py-2">Group Photo</td>
+                <td className="px-3 py-2">Group Picture &amp; Hiker Thanks</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
                 <td className="px-3 py-2">12:30 PM - 1:00 PM</td>
-                <td className="px-3 py-2">Social Time</td>
+                <td className="px-3 py-2">Raffle Group (b) Items</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
                 <td className="px-3 py-2">1:00 PM - 1:30 PM</td>
-                <td className="px-3 py-2">Raffle &amp; Hiker Thanks</td>
+                <td className="px-3 py-2">Raffle Group (c) Items</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
                 <td className="px-3 py-2">1:30 PM - 2:00 PM</td>
-                <td className="px-3 py-2">Social Time</td>
+                <td className="px-3 py-2">Raffle Cash (50/40/10)</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
                 <td className="px-3 py-2">2:00 PM - 2:30 PM</td>
