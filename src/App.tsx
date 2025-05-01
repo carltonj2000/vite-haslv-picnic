@@ -28,15 +28,15 @@ function App() {
             </thead>
             <tbody>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
-                <td className="px-3 py-2">10:00 AM - 10:30 AM</td>
+                <td className="px-3 py-2">10:00 AM</td>
                 <td className="px-3 py-2">Early Arrival And Setup</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
-                <td className="px-3 py-2">10:30 AM - 11:00 AM</td>
-                <td className="px-3 py-2">Guest And Food Arrival</td>
+                <td className="px-3 py-2">10:30 AM</td>
+                <td className="px-3 py-2">Hikers And Food Arrival</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
-                <td className="px-3 py-2">11:00 AM - 11:15 AM</td>
+                <td className="px-3 py-2">11:00 AM</td>
                 <td className="px-3 py-2">
                   Board/Leader/ChipMaster
                   <br />
@@ -44,7 +44,7 @@ function App() {
                 </td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
-                <td className="px-3 py-2">11:15 AM - 11:30 PM</td>
+                <td className="px-3 py-2">11:15 AM</td>
                 <td className="px-3 py-2">
                   <p>
                     Explain Cash Raffle (50/40/10)
@@ -67,28 +67,34 @@ function App() {
                 </td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
-                <td className="px-3 py-2">11:30 PM - 12:00 PM</td>
+                <td className="px-3 py-2">11:30 PM</td>
                 <td className="px-3 py-2">Raffle Group (a) Items</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
-                <td className="px-3 py-2">12:00 PM - 12:30 PM</td>
+                <td className="px-3 py-2">12:00 PM</td>
                 <td className="px-3 py-2">Group Picture &amp; Hiker Thanks</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
-                <td className="px-3 py-2">12:30 PM - 1:00 PM</td>
+                <td className="px-3 py-2">12:30 PM</td>
                 <td className="px-3 py-2">Raffle Group (b) Items</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
-                <td className="px-3 py-2">1:00 PM - 1:30 PM</td>
+                <td className="px-3 py-2">1:00 PM</td>
                 <td className="px-3 py-2">Raffle Group (c) Items</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
-                <td className="px-3 py-2">1:30 PM - 2:00 PM</td>
+                <td className="px-3 py-2">1:30 PM</td>
                 <td className="px-3 py-2">Raffle Cash (50/40/10)</td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
-                <td className="px-3 py-2">2:00 PM - 2:30 PM</td>
-                <td className="px-3 py-2">Wind Down &amp; Clean Up</td>
+                <td className="px-3 py-2">2:00 PM</td>
+                <td className="px-3 py-2">
+                  Next Picnic Donations
+                  <br />
+                  Clean Up
+                  <br />
+                  Wind Down
+                </td>
               </tr>
             </tbody>
           </table>
