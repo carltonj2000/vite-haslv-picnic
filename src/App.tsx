@@ -61,6 +61,7 @@ function App() {
                     <li>Chip Trophy Case $70 (b)</li>
                     <li>REI Gift Card $50 (c)</li>
                     <li>Hiking Fanny Pack (c)</li>
+                    <li>Gem Tree (c)</li>
                   </ul>
                 </td>
               </tr>
