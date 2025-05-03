@@ -38,7 +38,7 @@ function App() {
                 <td className="px-3 py-2">
                   Board/Leader/ChipMaster
                   <br />
-                  Acknowledgments
+                  Acknowledgments &amp; Photos
                 </td>
               </tr>
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
@@ -88,8 +88,6 @@ function App() {
               <tr className="odd:bg-blue-200 even:bg-amber-200 opacity-60">
                 <td className="px-3 py-2">2:00 PM</td>
                 <td className="px-3 py-2">
-                  Next Picnic Donations
-                  <br />
                   Clean Up
                   <br />
                   Wind Down
